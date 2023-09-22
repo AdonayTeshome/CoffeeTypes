@@ -38,29 +38,5 @@
         "restaurant_id": 1,
         "menu_image": "menu-5",
         "menu_price": "110"
-    },
-    {
-        "menu_id":6,
-        "menu_name": "Frappuccino And Frappe",
-        "description": "Varities Of Freshly Brewed Coffee All The Day For The Most Productive.",
-        "restaurant_id": 2,
-        "menu_image": "menu-6",
-        "menu_price": "140"
-    },
-    {
-        "menu_id":7,
-        "menu_name": "Iced Coffee",
-        "description": "Varities Of Freshly Brewed Coffee All The Day For The Most Productive.",
-        "restaurant_id": 2,
-        "menu_image": "menu-1",
-        "menu_price": "100"
-    },
-    {
-        "menu_id":8,
-        "menu_name": "Nitro Cold Brew",
-        "description": "Varities Of Freshly Brewed Coffee All The Day For The Most Productive. ",
-        "restaurant_id": 2,
-        "menu_image": "menu-2",
-        "menu_price": "110"
     }
 ]
